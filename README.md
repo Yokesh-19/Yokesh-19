@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yokesh</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
----
 
 - 🔭 I'm currently working on *AI-Powered RFP Management System*
 
@@ -11,16 +10,14 @@
 
 - 📫 How to reach me *yokesh.dev@gmail.com*
 
-- ⚡Fun fact I love playing football**
+- ⚡Fun fact I love playing Football**
 
----
 
 ## 🤝 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/yokesh" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/u/Yokesh_19/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-<a href="https://github.com/Yokesh-19" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ## 💻 Tech Stack
