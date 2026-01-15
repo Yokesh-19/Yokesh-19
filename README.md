@@ -2,15 +2,15 @@
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
 
-- 🔭 I'm currently working on AI-Powered RFP Management System
+- 🔭 I'm currently working on **AI-Powered RFP Management System**
 
-- 🌱 I’m currently learning generative ai
+- 🌱 I'm currently learning **Generative AI**
 
-- 💬 Ask me about JavaScript, React, Node.js and MongoDB
+- 💬 Ask me about **JavaScript, React, Node.js and MongoDB**
 
-- 📫 How to reach me yokesh.dev@gmail.com
+- 📫 How to reach me **yokesh.dev@gmail.com**
 
-- ⚡Fun fact I love playing Football
+- ⚡ Fun fact **I love playing Football**
 
 
 ## 🤝 Connect With Me
