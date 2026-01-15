@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on *AI-Powered RFP Management System*
 
-- 🌱 I’m currently learning generative ai*
+- 🌱 I’m currently learning generative ai
 
 - 💬 Ask me about *JavaScript, React, Node.js and MongoDB*
 
