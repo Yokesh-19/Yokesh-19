@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yokesh</h1>
 <h3 align="center">Software Engineer | Full-Stack Developer | AI Enthusiast</h3>
 
-- 🔭 I'm currently working on **AI-Powered RFP Management System**
-
 - 🌱 I'm currently learning **Generative AI, LangChain and LLM Application Development**
 
 - 💬 Ask me about **Java, Spring Boot, React.js, Node.js, MongoDB, REST APIs and Generative AI**
@@ -16,9 +14,9 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-  <p><strong>🎯 Recruiters: Scan or click below to evaluate my background and coding proficiency!</strong></p>
+  <p><strong>✨ Connect with me and explore my technical profile and coding journey:</strong></p>
   
-  <a href="https://linkedin.com/in/yokesh" target="_blank">
+  <a href="https://www.linkedin.com/in/yokeshdev/" target="_blank">
     <img src="https://img.shields.io/badge/💼_See_My_LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="45" style="margin: 10px;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
