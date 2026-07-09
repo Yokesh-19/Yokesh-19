@@ -15,10 +15,17 @@
 
 ## 🤝 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/yokesh" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/u/Yokesh_19/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-</p>
+<div align="center">
+  <p><strong>🎯 Recruiters: Scan or click below to evaluate my background and coding proficiency!</strong></p>
+  
+  <a href="https://linkedin.com/in/yokesh" target="_blank">
+    <img src="https://img.shields.io/badge/💼_See_My_LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="45" style="margin: 10px;" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Yokesh_19/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_See_My_LeetCode_Challenges-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="45" style="margin: 10px;" />
+  </a>
+</div>
 
 ---
 
@@ -99,5 +106,3 @@
 <p align="center">
   <i>⭐️ From <a href="https://github.com/Yokesh-19">Yokesh-19</a></i>
 </p>
-
-
